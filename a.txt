@@ -1,2 +1,2 @@
 This is demo file.
-Learning git...
+Learning git
